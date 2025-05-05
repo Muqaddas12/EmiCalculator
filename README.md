@@ -1,6 +1,6 @@
 # 💰 Loan Calculator App
 
-A responsive, theme-enabled **Loan Calculator** built with **React.js**, **Tailwind CSS**, and **Material UI**, featuring real-time currency conversion, amortization schedule, and intuitive UI.
+A responsive,  **Loan Calculator** built with **React.js**, **Tailwind CSS**, and **Material UI**, featuring real-time currency conversion, amortization schedule, and intuitive UI.
 
 ## 🚀 Demo
 
