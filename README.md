@@ -11,10 +11,8 @@ Live Site: [https://videodownloader-4cd47.web.app/]
 ## 🧰 Tech Stack
 
 - ⚛️ **React.js** – UI development
-- 🎨 **Tailwind CSS + Material UI** – Styling and components
+- 🎨 **Tailwind CSS** – Styling and components
 - 🌐 **ExchangeRate API** – Real-time currency conversion
-- 🧠 **Context API** – Global state management
-- 🌙 **Dark/Light Mode** – User-friendly theming
 - 📱 **Responsive Design** – Mobile-first layout
 
 ## 📦 Features
